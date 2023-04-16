@@ -8,3 +8,5 @@ def main(a):
         a: integer
     """
     return
+x=10
+print(bool(x))
