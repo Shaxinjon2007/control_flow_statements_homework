@@ -7,3 +7,7 @@ def main(a):
         a: a increased by 1 if positive, else decreased by 2.
     """
     return
+
+
+x='2'
+print(bool(x))
