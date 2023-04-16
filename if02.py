@@ -9,5 +9,5 @@ def main(a):
     return
 
 
-x='2'
+x=2
 print(bool(x))
