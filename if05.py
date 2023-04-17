@@ -9,3 +9,13 @@ def main(a,b,c):
         integer: the number of negative numbers in the given numbers
     """
     return
+
+a=int(input())
+if a>0:
+    print('musbat son')
+    
+if a<0:
+    print('manfiy son')
+    
+if a == 0:
+     print('nol')
